@@ -9,7 +9,7 @@
 Clone repository in the terminal
 
 ```sh
-git clone git@github.com:wnowicki/zpsb.git
+git clone https://github.com/wnowicki/zpsb-lab.git
 ```
 
 ### Python
